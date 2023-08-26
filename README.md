@@ -7,7 +7,7 @@ Here's a [link](https://projectboard.world/isef2021/project/robo009---implement-
 
 Please note that this is NOT a code repository. The purpose of this repository is to showcase the results of this 2-year project, as well as acting as a hub for all the links/contents associated with this project.
 
-Part 2 of the developmental work on this project happened in between its submission to ISEF 2021 and its eventual submission to STS 2022, where I integrated the decision-tree portion and thought of using multiple, specialized CNNs rather than just trying to train a CNN that is capable of solving the problem upfront. I also wrote up a [paper](https://github.com/BuweiChen/Breast-Cancer-Classification/blob/main/Buwei%20Chen%20STS%20Paper.docx) for submission to STS 2022. I have included the abstract of the final project below.
+Part 2 of the developmental work on this project happened in between its submission to ISEF 2021 and its eventual submission to STS 2022, where I integrated the decision-tree portion and thought of using multiple, specialized CNNs rather than just trying to train a CNN that is capable of solving the problem upfront. I also wrote up a [paper](https://docs.google.com/document/d/1DGb875EP5uhy96bLYvIOYQvl9Dn-Hnlw/edit?usp=sharing&ouid=115096640526491288662&rtpof=true&sd=true) for submission to STS 2022. I have included the abstract of the final project below.
 
 ### Abstract
 

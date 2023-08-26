@@ -1,7 +1,7 @@
 # Breast-Cancer-Classification
 Hi! Welcome to my 2021 ISEF Finalist project on developing a novel decision-tree-based CADx system powered with specialized CNNs.
 
-This project, titled **Novel Implementation of Deep Learning for Breast Cancer Detection Using Convolutional Neural Network and Transfer Learning** had qualified for and was submitted to Regeneron ISEF 2021, here is a link to the [abstract]([https://abstracts.societyforscience.org/Home/FullAbstract?Category=Any%20Category&AllAbstracts=True&FairCountry=Any%20Country&FairState=Any%20State&ProjectId=19336](https://abstracts.societyforscience.org/Home/FullAbstract?ISEFYears=2021%2C&Category=Any%20Category&Finalist=Chen&AllAbstracts=True&FairCountry=Any%20Country&FairState=WI&ProjectId=20322))
+This project, titled **Novel Implementation of Deep Learning for Breast Cancer Detection Using Convolutional Neural Network and Transfer Learning** had qualified for and was submitted to Regeneron ISEF 2021, here is a link to the [abstract](https://abstracts.societyforscience.org/Home/FullAbstract?Category=Any%20Category&AllAbstracts=True&FairCountry=Any%20Country&FairState=Any%20State&ProjectId=19336).
 
 Here's a [link](https://projectboard.world/isef2021/project/robo009---implement-deep-learning-to-detect-breast-cancer) to the projectboard page of this project on the official ISEF virtual fair website.
 
